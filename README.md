@@ -2,9 +2,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/faithoh0/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>  
+  </a>  
+</p>
 
-  </p>
+<p align="center">
+  <img width="173" height="200" alt="Image" src="https://github.com/user-attachments/assets/5b16d424-4289-4539-b8ec-ceb42f182d03" />
+</p>
+
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
@@ -24,7 +28,8 @@
 
 📫 Contacto: ormenofaith12@gmail.com
 <!--Intro end-->
-  </p>
+</p>
+
 <br>
 
 <h2>Lenguajes de Programación 👨🏻‍💻</h2>
@@ -44,30 +49,28 @@
     <img src="https://skillicons.dev/icons?i=vscode,discord,visualstudio,github,windows&perline=12" />
   </a>
 </p>
-<p align="center">
 
+<p align="center">
   <h2>Estadisticas :zzz:</h2>
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Faithohh&theme=dark&hide_border=false" /> 
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+<br></br> -->
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Faithohh&theme=dark&hide_border=false" />
+
 </td>
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Faithohh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Faithohh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-  </td>
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-
-
-
-</p>        
+</p>
 <!--- stats (end) -->

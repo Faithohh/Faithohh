@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img width="173" height="200" alt="Image" src="https://github.com/user-attachments/assets/5b16d424-4289-4539-b8ec-ceb42f182d03" />
+  <img width="173" height="200" alt="Linux Tux girando" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" />
 </p>
 
 <br>
